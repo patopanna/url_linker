@@ -1,0 +1,1 @@
+g++ url_linker.cpp -o url_linker -fexec-charset=CP932
